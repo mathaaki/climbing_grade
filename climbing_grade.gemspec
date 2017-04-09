@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Convert climbing grade gem}
   spec.description   = %q{The climbing grade is different in Japan, France, USA respectively. This gem helps to convert Japanese grade to USA's grade, etc.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/mathaaki/climbing_grade"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
